@@ -5,3 +5,5 @@ print("Hello")
 def dollars_to_cents(dollars):
 	cents= dollars * 100
 	return cents
+
+def hours to minutes
