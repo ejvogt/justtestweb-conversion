@@ -12,5 +12,6 @@ def gallon_to_litter(gallon)
 
 =======
 
-def hours to minutes
->>>>>>> 294badacf17ecef7615248d42ceda7b58d774b05
+def minutes_to_sec(seconds)
+	seconds = minute * 60
+	return seconds
